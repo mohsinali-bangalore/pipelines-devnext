@@ -4,6 +4,6 @@ var:
   gitProvider: dev_next_trail_2
   path: mohsinali-bangalore/pipelines-devnext
   branches: main
-  artifactory: hk_artifactory_1
+  artifactory: mohsin_artifactory
   dockerRepoName: cpe-docker-local-devnext
   jfrogPlatformInstance: devnextsaas1.jfrog.io
