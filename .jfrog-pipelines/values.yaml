@@ -1,8 +1,8 @@
 var:
   pipelineName: devnext_workshop_1
-  gitRepoResource: devnext_sample
-  gitProvider: hk_github
-  path: harshkumar1/pipelines-devnext
+  gitRepoResource: devnext_workshop_201
+  gitProvider: dev_next_trail_2
+  path: mohsinali-bangalore/pipelines-devnext
   branches: main
   artifactory: hk_artifactory_1
   dockerRepoName: cpe-docker-local-devnext
