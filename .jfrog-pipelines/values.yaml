@@ -6,4 +6,4 @@ var:
   branches: main
   artifactory: mohsin_artifactory
   dockerRepoName: cpe-docker-local-devnext
-  jfrogPlatformInstance: devnextsaas1.jfrog.io
+  jfrogPlatformInstance: devnextsaas2.jfrog.io
